@@ -1,0 +1,19 @@
+
+Exmples of implementing fully localised Spring MVC.
+
+The examples have been built and run with Spring Framework version 3.1.0.M2 
+on Tomcat6. :
+
+There are four example projects:
+
+1) singlelang: single language referential Spring MVC;
+
+2) messagesource: internationalisation with Spring MessageSource
+
+3) viewresolver: localisation using locale specific view sources;
+
+4) fulllocalisation: fully localised Spring MVC with localised DAOs,
+    MessageSource and localised view sources.
+
+
+Please note these classes are for illustration only and are not of production quality.

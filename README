@@ -15,5 +15,7 @@ There are four example projects:
 4) fulllocalisation: fully localised Spring MVC with localised DAOs,
     MessageSource and localised view sources.
 
+A tutorial based on these examples can be found at 
+http://whatsinthemicrowave.com/?p=81
 
 Please note these classes are for illustration only and are not of production quality.
